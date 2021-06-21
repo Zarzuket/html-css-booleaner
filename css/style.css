@@ -1,0 +1,32 @@
+.banner{
+    background-color: #4EA0FF;
+    height: 100px;
+    width: auto;
+    background-image:"./img"
+}
+
+.logo{
+ height: 100%;
+ width: 100%;   
+}
+
+
+
+.small_size_p{
+    font-size: 10px;
+ }
+
+ .description_photo{
+     font-size: 10px;
+ }
+
+ .yellow{
+    background-color: yellow;
+ }
+
+ #theadlorem{
+     background-color: #20A9E5;
+ }
+ .first_third{
+     background-color: #B1E5F2;
+ }
