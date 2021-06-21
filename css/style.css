@@ -1,7 +1,6 @@
 .banner{
     background-color: #4EA0FF;
     height: 100px;
-    width: 1333px;
     background-image:url("../img/pattern.png");
     background-size: 450px;
 }
@@ -15,9 +14,13 @@
     font-size: 50px;
 
 }
+.p_grey{
+    color: grey;
+}
 
 
 .small_size_p{
+    color: grey;
     font-size: 10px;
  }
 
